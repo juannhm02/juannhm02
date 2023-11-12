@@ -5,7 +5,6 @@ Bienvenido a mi perfil de GitHub. Soy Ingeniero Informático con una sólida for
 ## 🌍 Sobre mí
 
 - 🎓 Graduado en Ingeniería Informática de la [Universidad de Córdoba](http://www.uco.es/).
-  <img src="https://www.uco.es/ucopress/images/LogoUco.png" alt="Logotipo UCO" width="100"/>
 
 - 💼 Experiencia en desarrollo de aplicaciones web y frontend.
 - 🌱 Constantemente aprendiendo y explorando nuevas tecnologías.
