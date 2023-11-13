@@ -49,8 +49,8 @@ Bienvenido a mi perfil de GitHub. Soy Ingeniero Informático con una sólida for
 
 ## 📈 Estadísticas de GitHub
 
-[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juannhm02&show_icons=true&theme=dark)](https://github.com/tu-usuario)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juannhm02&layout=compact&theme=dark)](https://github.com/tu-usuario)
+[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juannhm02&show_icons=true&theme=dark)](https://github.com/juannhm02) 
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juannhm02&layout=compact&theme=dark)](https://github.com/juannhm02)
 
 ## 📫 Cómo Contactarme
 
