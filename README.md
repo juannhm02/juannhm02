@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy Ingeniero Informático con una sólida for
 ## 🌍 Sobre mí
 
 - 🎓 Graduado en Ingeniería Informática de la [Universidad de Córdoba](http://www.uco.es/).
-
+- 💻 Realización de mis prácticas en [Genially](https://github.com/Genially).
 - 💼 Experiencia en desarrollo de aplicaciones web y frontend.
 - 🌱 Constantemente aprendiendo y explorando nuevas tecnologías.
 
