@@ -8,6 +8,7 @@ Bienvenido a mi perfil de GitHub. Soy Ingeniero Informático con una sólida for
 - 💻 Realización de mis prácticas en [Genially](https://github.com/Genially).
 - 💼 Experiencia en desarrollo de aplicaciones web y frontend.
 - 🌱 Constantemente aprendiendo y explorando nuevas tecnologías.
+- ⛓️‍💥 Si quieres saber más, o con un aspecto más visual, visita mi [portfolio](https://personal-portfolio-azure.vercel.app/).
 
 ## 👨🏻‍💻 Habilidades Técnicas
 
