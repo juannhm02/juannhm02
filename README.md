@@ -58,9 +58,9 @@ Welcome to my GitHub profile. I am a junior Frontend Developer with a strong aca
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=juannhm02&show_icons=true&theme=dark&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juannhm02&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juannhm02&layout=compact&theme=dark&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juannhm02&layout=compact&theme=dark" />
 
 
 ## 📫 Contact
