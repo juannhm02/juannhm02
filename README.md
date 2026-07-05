@@ -53,7 +53,7 @@ Welcome to my GitHub profile. I'm a Computer Engineering graduate from the Unive
 
 **Personal Portfolio** — React · Vite · Tailwind CSS
 Personal website showcasing my projects, skills and experience.
-🔗 [Live site](https://personal-portfolio-azure.vercel.app/) · [Repo](https://github.com/juannhm02/personal-portfolio)
+🔗 [Live site](https://juanhiguera.es) · [Repo](https://github.com/juannhm02/personal-portfolio)
 
 **ToTusTuus Web** — React · Vite · Node.js · Express
 E-commerce site built as a Node.js monorepo: React (Vite) frontend, Express REST API, and an admin panel with order management, transactional emails, and server-side price validation.
