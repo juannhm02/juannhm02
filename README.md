@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I'm a Computer Engineering graduate from the Unive
 - 💻 Frontend Developer with internship experience at Genially, building React & JavaScript components in a real production environment.
 - 🛠️ Full-stack exposure: Node.js, Express and NestJS on the backend, plus mobile development with React Native/Expo.
 - 🌱 Continuously learning — recent certificates in AI, Quantum Computing, SEO and Scrum.
-- 🔗 If you want a more visual overview, check out my portfolio: juanhiguera.es
+- 🔗 If you want a more visual overview, check out my portfolio: [juanhiguera.es](https://www.juanhiguera.es)
 
 ## 👨🏻‍💻 Technical Skills
 
